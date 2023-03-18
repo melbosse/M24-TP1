@@ -1,0 +1,7 @@
+{
+  "name": "tp1_bossemelina",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
